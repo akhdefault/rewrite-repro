@@ -11,9 +11,9 @@ module.exports = {
       ],
     };
   },
-  trailingSlash: true,
+  // trailingSlash: true,
   i18n: {
-    locales: ["en"],
+    locales: ["en", "ru"],
     defaultLocale: "en",
     localeDetection: false,
   },
